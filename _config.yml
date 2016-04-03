@@ -1,0 +1,28 @@
+name: melihdiyala
+favicon: null
+layout_spectrum: 0.986243371386081
+typography_spectrum: 0.8592740711756051
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8767678353469819
+  lightness: 0.1247310636099428
+  saturation: 0.03912802506238222
+  rhythmicContrast: 0.4316613439004868
+purpose: []
